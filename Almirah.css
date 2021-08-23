@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+.heading{
+    width: 100%;
+    font-size: 30;
+}
+.copyright{
+    margin-top: 440px;
+    background-color: rgb(162, 163, 163);
+    font-size: 25px;
+    color: white;
+    padding: 17px;
+}
